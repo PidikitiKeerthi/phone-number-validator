@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  select {
+    width: 200px;
+  }
+  
+  input {
+    width: 200px;
+  }
+  
+  button {
+    width: 100px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
